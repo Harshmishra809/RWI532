@@ -1,0 +1,4 @@
+In Java, StringBuilder is a class that provides a mutable sequence of characters. It's part of the java.lang package and was introduced in Java 5.0 as a more efficient alternative to String concatenation, especially when dealing with large amounts of string manipulation.
+
+The key feature of StringBuilder is that it allows you to modify strings without creating new objects every time you perform an operation. This can lead to significant performance improvements, especially in scenarios where you're frequently appending or modifying strings.
+
