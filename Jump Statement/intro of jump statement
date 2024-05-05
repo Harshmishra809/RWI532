@@ -1,0 +1,5 @@
+Jumping statements are control statements that transfer execution control from one point to another point in the program. There are three Jump statements that are provided in the Java programming language:
+
+Break statement.
+Continue statement.
+Return Statement
