@@ -1,0 +1,2 @@
+In Java, StringBuffer is a class that provides a mutable sequence of characters. It is similar to the String class, but unlike String, StringBuffer objects can be modified after they are created. This makes StringBuffer useful for situations where you need to manipulate strings dynamically, such as when building strings in a loop or when you need to frequently modify the content of a string.
+
