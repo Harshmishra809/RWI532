@@ -1,9 +1,0 @@
-We know that it is not possible to create an object of an interface in Java. Therefore, for instantiation, we need a class that implements the Deque interface, and that class is ArrayDeque. It grows and shrinks as per usage. It also inherits the AbstractCollection class.
-
-The important points about ArrayDeque class are:
-Unlike Queue, we can add or remove elements from both sides.
-Null elements are not allowed in the ArrayDeque.
-ArrayDeque is not thread safe, in the absence of external synchronization.
-ArrayDeque has no capacity restrictions.
-ArrayDeque is faster than LinkedList and Stack.
-
