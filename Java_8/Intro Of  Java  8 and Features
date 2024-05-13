@@ -1,0 +1,19 @@
+Java 8, released in March 2014, brought significant changes to the Java programming language, introducing several powerful features that enhance productivity and improve code readability. Here's an overview of some key features introduced in Java 8:
+
+Lambda Expressions: Lambda expressions provide a concise way to represent anonymous functions or methods. They enable functional programming style in Java, making it easier to write code that operates on collections.
+
+Stream API: The Stream API provides a fluent and functional approach to processing collections of objects. It allows for easy parallelization of operations on collections, making code more concise and readable.
+
+Functional Interfaces: Java 8 introduced the java.util.function package, which includes several functional interfaces like Predicate, Function, Consumer, and Supplier. These interfaces facilitate functional programming constructs and can be used effectively with lambda expressions.
+
+Default Methods: Default methods allow interfaces to have concrete methods with implementations. This feature enables backward compatibility by allowing interfaces to evolve without breaking existing implementations.
+
+Optional: The Optional class was introduced to address the problem of null references. It encourages better handling of potentially absent values and helps avoid NullPointerExceptions.
+
+Date and Time API: Java 8 introduced a new Date and Time API (java.time package) to address the shortcomings of the old java.util.Date and java.util.Calendar classes. The new API provides better support for date and time manipulation, formatting, and parsing.
+
+Method References: Method references provide a shorthand syntax for lambda expressions, allowing you to refer directly to existing methods or constructors by name.
+
+Parallel Array Sorting: The Arrays class in Java 8 introduced parallel sorting algorithms, allowing for faster sorting of large arrays by utilizing multiple cores of the processor.
+
+These features collectively make Java 8 a significant milestone in the evolution of the Java language, empowering developers to write cleaner, more expressive, and more efficient code.
