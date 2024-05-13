@@ -1,0 +1,2 @@
+In Java 8, you can use the BiPredicate functional interface to represent a predicate (boolean-valued function) that takes two arguments. Here's an example code demonstrating the usage of BiPredicate:
+
