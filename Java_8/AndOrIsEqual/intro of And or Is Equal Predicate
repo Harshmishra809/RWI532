@@ -1,0 +1,3 @@
+isEqual(Object targetRef) : Returns a predicate that tests if two arguments are equal according to Objects.equals(Object, Object).
+and(Predicate other) : Returns a composed predicate that represents a short-circuiting logical AND of this predicate and another.
+or(Predicate other) : Returns a composed predicate that represents a short-circuiting logical OR of this predicate and another.
