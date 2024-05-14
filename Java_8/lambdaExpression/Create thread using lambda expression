@@ -1,0 +1,16 @@
+Lambda Expressions are introduced in Java SE8. These expressions are developed for Functional Interfaces. A functional interface is an interface with only one abstract method. To know more about Lambda Expressions click here.
+
+Syntax:
+
+(argument1, argument2, .. argument n) -> {
+
+// statements
+
+};
+
+Here we make use of the Runnable Interface. As it is a Functional Interface, Lambda expressions can be used. The following steps are performed to achieve the task:
+
+Create the Runnable interface reference and write the Lambda expression for the run() method.
+Create a Thread class object passing the above-created reference of the Runnable interface since the start() method is defined in the Thread class its object needs to be created.
+Invoke the start() method to run the thread.
+
