@@ -1,5 +1,0 @@
-One to one represents that a single entity is associated with a single instance of the other entity. An instance of a source entity can be at most mapped to one instance of the target entity. We have a lot of examples around us that demonstrate this one-to-one mapping.
-
-One person has one passport, a passport is associated with a single person.
-Leopards have unique spots, a pattern of spots is associated with a single leopard.
-We have one college ID, a college ID is uniquely associated with a person.
