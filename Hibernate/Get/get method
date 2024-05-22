@@ -1,0 +1,11 @@
+Hibernate is a Java framework that provides a powerful set of tools for persisting and accessing data in a Java environment. It is often used in conjunction with Spring. Spring and Hibernate are both widely used in the Java community, and they can be used together to build powerful and efficient Java-based applications.
+
+Let’s deal with Fetching objects in Spring Hibernate:
+Hibernate provides different methods to fetch data from the database.
+
+get()
+load()
+1. get() method
+get() method is used to retrieve a persistent object from the database. It is a member of the Session interface, and it takes the class of the object to be retrieved and the primary key of the object as arguments.
+get() method only hits the database if the object is not present in the session cache. If the same object is already present in the cache then it returns previously stored data from the cache.
+get() method returns null if there is no object present in the database.
