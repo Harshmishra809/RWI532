@@ -1,5 +1,0 @@
-The Many-To-Many mapping represents a collection-valued association where any number of entities can be associated with a collection of other entities. In relational database any number of rows of one entity can be referred to any number of rows of another entity.
-
-@ManyToMany Example
-In this example, we will create a Many-To-Many relationship between a Student and Library in such a way that any number of students can be issued any type of books.
-
