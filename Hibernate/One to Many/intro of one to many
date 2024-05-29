@@ -1,0 +1,4 @@
+The One-To-Many mapping comes into the category of collection-valued association where an entity is associated with a collection of other entities. Hence, in this type of association the instance of one entity can be mapped with any number of instances of another entity.
+
+@OneToMany Example
+In this example, we will create a One-To-Many relationship between a Student and Library in such a way that one student can be issued more than one type of book.
